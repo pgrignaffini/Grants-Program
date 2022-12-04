@@ -27,7 +27,7 @@ Our website works just like any other with all data and interactions being store
 
 Interaction with the blockchain are handled using the Substrate Python package. The frequency parachain we are building on was developed using RUST.
 
-The frontend was built using NextJS and Tailwinds for styling.
+The frontend was built using NextJS and Tailwinds for styling. The whole project was built using typescript, Prisma for database schema definition and tRPC for fr\etching and pushing data from/to the db. The website is hosted on Vercel and the db runs on railway.app
 
 ### Ecosystem Fit
 
